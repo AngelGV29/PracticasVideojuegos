@@ -1,0 +1,3 @@
+function sct_npc(){
+
+}

@@ -1,0 +1,4 @@
+Mecánicas del juego
+-Caminar corer y saltar
+- Atacar con el martillo
+-Lanzar enemigos
